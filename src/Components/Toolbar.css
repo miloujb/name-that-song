@@ -1,0 +1,23 @@
+.Toolbar {
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+.Toolbar h1 {
+  text-align: left;
+  align-items: center;
+  padding-left: 4%;
+}
+
+.Toolbar ul {
+  list-style-type: none;
+}
+
+.Toolbar li {
+  float: right;
+  padding-left: 16px;
+  padding-right: 16px;
+}

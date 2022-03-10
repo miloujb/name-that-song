@@ -1,0 +1,13 @@
+.intro {
+  padding: 10% 5%;
+}
+
+.intro h1 {
+  font-size: 5rem;
+  text-align: left;
+}
+
+.intro p {
+  text-align: left;
+  font-size: 2vh;
+}

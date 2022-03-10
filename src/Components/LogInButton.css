@@ -1,0 +1,21 @@
+button {
+  border-radius: 500px;
+  padding: 11px 32px 9px;
+  background-image: linear-gradient(
+    to top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  border-color: transparent;
+  border-top: none;
+  border-bottom: none;
+  margin-bottom: 45px;
+  width: 200px;
+  height: 75px;
+}
